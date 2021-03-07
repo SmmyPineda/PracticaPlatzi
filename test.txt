@@ -1,0 +1,18 @@
+Etamos probando iniciar con el mundo de git y git hub
+
+este es el primer texto que creo -- vamos temas variados.
+
+pq sino no vamos a poer hacer el examen.
+
+Aqui también vamos aprender cosas masisas para servir al SEÑOR.
+
+Creo que con esto podriamos hacer:
+a. Textos para publicaciones
+b. cambios a páginas web
+c. historial de códigos
+
+
+Debemos averiguar si tambièn se puede hacer cambios en archivos de power point
+
+posiblemente no funcione para archivos binarios
+
