@@ -1,3 +1,10 @@
+
+-----POR SAMUEL PINEDA
+Master en Data Science
+Experiencia: 17 años
+Área de mayor experiencia: Investigación de mercado
+-----------------------------------------------------
+
 Etamos probando iniciar con el mundo de git y git hub
 
 este es el primer texto que creo -- vamos temas variados.
