@@ -1,8 +1,11 @@
 
 -----POR SAMUEL PINEDA
+Edad: 40 años
+Lugar: San Pedro Sula - Honduras
 Master en Data Science
-Experiencia: 17 años
+Experiencia: 20 años
 Área de mayor experiencia: Investigación de mercado
+Principales intereses: Data Science - Machine Learning
 -----------------------------------------------------
 
 Etamos probando iniciar con el mundo de git y git hub
