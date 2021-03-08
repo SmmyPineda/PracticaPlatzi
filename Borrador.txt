@@ -9,13 +9,11 @@ Salón de convenciones
 ----------------------------------------------
 
 INICIO:
-asfasfasdf
+
 
 
 ACTIVIDADES PRINCIPALES:
-asdfasdfasdf
-asdfasdfasdfasdfa
-asdfasdf asdf asdfasdfasdfasdf 
+
 
 
 TALLERES:
@@ -24,7 +22,7 @@ TALLERES:
 - Marketing digital
 
 CIERRE:
-asfadfasdf asdfasdf asd dsf
+
 
 
 ---------------------------------------
