@@ -4,7 +4,8 @@ PROGRAMA DE SEMANA SANTA
 07 de Marzo 2021
 San Pedro Sula, Cortés, Honduras
 
-Salón de convenciones
+Salón de convenciones 
+Hora: 8 - 18:30
 
 ----------------------------------------------
 
@@ -26,6 +27,7 @@ TALLERES:
 - Planificación
 - Inteligencia de negocios
 - Marketing digital
+- Big Data
 
 CIERRE:
 - Plenarias
