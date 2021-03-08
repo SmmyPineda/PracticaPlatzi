@@ -9,12 +9,18 @@ Salón de convenciones
 ----------------------------------------------
 
 INICIO:
-
+- Bienvenida
+- invocación
+- Instrucciones
+- Agenda
+- rompe hielo (dinámica)
 
 
 ACTIVIDADES PRINCIPALES:
-
-
+- Presentacion de informes
+- Elección de comites
+- Presentaciòn de estudios realizados
+- Trabajo en equipo
 
 TALLERES:
 - Planificación
@@ -22,7 +28,9 @@ TALLERES:
 - Marketing digital
 
 CIERRE:
-
+- Plenarias
+- Resumenes
+- Next Steps
 
 
 ---------------------------------------
